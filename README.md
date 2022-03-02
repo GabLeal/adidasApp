@@ -8,4 +8,4 @@ Projeto focado em animacoes. Tipos de animacoes que foram utilizadas:
 
 ## Demo Adidas App
 
-<img src="screenshot-readme/adidasApp.gif" height="500">
+<img src="adidasApp.gif" height="500">
