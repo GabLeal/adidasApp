@@ -15,11 +15,11 @@ Animação interpolado é um tipo de animação explicita. Nesse tipo de animaç
 
 Veja mais sobre:
 
-- [Animacoes implicitas](https://docs.flutter.dev/development/ui/animations/implicit-animations)
+- [Animações implicitas](https://docs.flutter.dev/development/ui/animations/implicit-animations)
 
-- [Animacoes explicitas](https://docs.flutter.dev/codelabs/explicit-animations#what-are-explicit-animations)
+- [Animações explicitas](https://docs.flutter.dev/codelabs/explicit-animations#what-are-explicit-animations)
 
-- [Animacoes interpoladas](https://docs.flutter.dev/development/ui/animations/tutorial#tween)
+- [Animações interpoladas](https://docs.flutter.dev/development/ui/animations/tutorial#tween)
 
 ## 👨🏽‍💻 Demo Adidas App
 
